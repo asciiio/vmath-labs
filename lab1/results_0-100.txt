@@ -1,0 +1,699 @@
+Left rectangle method:	2.350399
+Right rectangle method:	2.350399
+Trapezoid method:	2.350399
+Simpson method:		1.566932
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.684978
+Right rectangle method:	1.684978
+Trapezoid method:	1.684978
+Simpson method:		1.463171
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.410978
+Right rectangle method:	1.410978
+Trapezoid method:	1.410978
+Simpson method:		1.014263
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.313734
+Right rectangle method:	1.313734
+Trapezoid method:	1.313734
+Simpson method:		1.189986
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.330797
+Right rectangle method:	1.330797
+Trapezoid method:	1.330797
+Simpson method:		1.122972
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.313895
+Right rectangle method:	1.313895
+Trapezoid method:	1.313895
+Simpson method:		1.281534
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.286069
+Right rectangle method:	1.286069
+Trapezoid method:	1.286069
+Simpson method:		1.167702
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.282434
+Right rectangle method:	1.282434
+Trapezoid method:	1.282434
+Simpson method:		1.272000
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.286666
+Right rectangle method:	1.286666
+Trapezoid method:	1.286666
+Simpson method:		1.189643
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.281081
+Right rectangle method:	1.281081
+Trapezoid method:	1.281081
+Simpson method:		1.264509
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.270156
+Right rectangle method:	1.270156
+Trapezoid method:	1.270156
+Simpson method:		1.183577
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.274254
+Right rectangle method:	1.274254
+Trapezoid method:	1.274254
+Simpson method:		1.261040
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.275306
+Right rectangle method:	1.275306
+Trapezoid method:	1.275306
+Simpson method:		1.208597
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.271887
+Right rectangle method:	1.271887
+Trapezoid method:	1.271887
+Simpson method:		1.267160
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.267222
+Right rectangle method:	1.267222
+Trapezoid method:	1.267222
+Simpson method:		1.214142
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.270681
+Right rectangle method:	1.270681
+Trapezoid method:	1.270681
+Simpson method:		1.266763
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.270643
+Right rectangle method:	1.270643
+Trapezoid method:	1.270643
+Simpson method:		1.220552
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.268082
+Right rectangle method:	1.268082
+Trapezoid method:	1.268082
+Simpson method:		1.261887
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.267085
+Right rectangle method:	1.267085
+Trapezoid method:	1.267085
+Simpson method:		1.220896
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.268713
+Right rectangle method:	1.268713
+Trapezoid method:	1.268713
+Simpson method:		1.264590
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.268238
+Right rectangle method:	1.268238
+Trapezoid method:	1.268238
+Simpson method:		1.229078
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266150
+Right rectangle method:	1.266150
+Trapezoid method:	1.266150
+Simpson method:		1.264815
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266740
+Right rectangle method:	1.266740
+Trapezoid method:	1.266740
+Simpson method:		1.231778
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.267476
+Right rectangle method:	1.267476
+Trapezoid method:	1.267476
+Simpson method:		1.265217
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266815
+Right rectangle method:	1.266815
+Trapezoid method:	1.266815
+Simpson method:		1.233136
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265037
+Right rectangle method:	1.265037
+Trapezoid method:	1.265037
+Simpson method:		1.261614
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266375
+Right rectangle method:	1.266375
+Trapezoid method:	1.266375
+Simpson method:		1.235266
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266630
+Right rectangle method:	1.266630
+Trapezoid method:	1.266630
+Simpson method:		1.264878
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265894
+Right rectangle method:	1.265894
+Trapezoid method:	1.265894
+Simpson method:		1.238242
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265179
+Right rectangle method:	1.265179
+Trapezoid method:	1.265179
+Simpson method:		1.264498
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266037
+Right rectangle method:	1.266037
+Trapezoid method:	1.266037
+Simpson method:		1.239974
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.266017
+Right rectangle method:	1.266017
+Trapezoid method:	1.266017
+Simpson method:		1.264462
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265256
+Right rectangle method:	1.265256
+Trapezoid method:	1.265256
+Simpson method:		1.239901
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265255
+Right rectangle method:	1.265255
+Trapezoid method:	1.265255
+Simpson method:		1.263459
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265737
+Right rectangle method:	1.265737
+Trapezoid method:	1.265737
+Simpson method:		1.242332
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265552
+Right rectangle method:	1.265552
+Trapezoid method:	1.265552
+Simpson method:		1.264709
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264794
+Right rectangle method:	1.264794
+Trapezoid method:	1.264794
+Simpson method:		1.243437
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265237
+Right rectangle method:	1.265237
+Trapezoid method:	1.265237
+Simpson method:		1.264621
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265474
+Right rectangle method:	1.265474
+Trapezoid method:	1.265474
+Simpson method:		1.244700
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265188
+Right rectangle method:	1.265188
+Trapezoid method:	1.265188
+Simpson method:		1.264013
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264620
+Right rectangle method:	1.264620
+Trapezoid method:	1.264620
+Simpson method:		1.244351
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265171
+Right rectangle method:	1.265171
+Trapezoid method:	1.265171
+Simpson method:		1.264149
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265244
+Right rectangle method:	1.265244
+Trapezoid method:	1.265244
+Simpson method:		1.246499
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264895
+Right rectangle method:	1.264895
+Trapezoid method:	1.264895
+Simpson method:		1.264477
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264735
+Right rectangle method:	1.264735
+Trapezoid method:	1.264735
+Simpson method:		1.247155
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265083
+Right rectangle method:	1.265083
+Trapezoid method:	1.265083
+Simpson method:		1.264531
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.265042
+Right rectangle method:	1.265042
+Trapezoid method:	1.265042
+Simpson method:		1.247773
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264655
+Right rectangle method:	1.264655
+Trapezoid method:	1.264655
+Simpson method:		1.263715
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264782
+Right rectangle method:	1.264782
+Trapezoid method:	1.264782
+Simpson method:		1.248094
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264985
+Right rectangle method:	1.264985
+Trapezoid method:	1.264985
+Simpson method:		1.264374
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264864
+Right rectangle method:	1.264864
+Trapezoid method:	1.264864
+Simpson method:		1.249237
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264454
+Right rectangle method:	1.264454
+Trapezoid method:	1.264454
+Simpson method:		1.264260
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264788
+Right rectangle method:	1.264788
+Trapezoid method:	1.264788
+Simpson method:		1.249786
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264883
+Right rectangle method:	1.264883
+Trapezoid method:	1.264883
+Simpson method:		1.264386
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264706
+Right rectangle method:	1.264706
+Trapezoid method:	1.264706
+Simpson method:		1.249929
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264498
+Right rectangle method:	1.264498
+Trapezoid method:	1.264498
+Simpson method:		1.263787
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264768
+Right rectangle method:	1.264768
+Trapezoid method:	1.264768
+Simpson method:		1.250591
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264783
+Right rectangle method:	1.264783
+Trapezoid method:	1.264783
+Simpson method:		1.264412
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264566
+Right rectangle method:	1.264566
+Trapezoid method:	1.264566
+Simpson method:		1.251170
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264558
+Right rectangle method:	1.264558
+Trapezoid method:	1.264558
+Simpson method:		1.264351
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264731
+Right rectangle method:	1.264731
+Trapezoid method:	1.264731
+Simpson method:		1.251646
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264685
+Right rectangle method:	1.264685
+Trapezoid method:	1.264685
+Simpson method:		1.264235
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264440
+Right rectangle method:	1.264440
+Trapezoid method:	1.264440
+Simpson method:		1.251527
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264586
+Right rectangle method:	1.264586
+Trapezoid method:	1.264586
+Simpson method:		1.264109
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264684
+Right rectangle method:	1.264684
+Trapezoid method:	1.264684
+Simpson method:		1.252365
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264592
+Right rectangle method:	1.264592
+Trapezoid method:	1.264592
+Simpson method:		1.264371
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264373
+Right rectangle method:	1.264373
+Trapezoid method:	1.264373
+Simpson method:		1.252636
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264591
+Right rectangle method:	1.264591
+Trapezoid method:	1.264591
+Simpson method:		1.264370
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264630
+Right rectangle method:	1.264630
+Trapezoid method:	1.264630
+Simpson method:		1.253029
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264504
+Right rectangle method:	1.264504
+Trapezoid method:	1.264504
+Simpson method:		1.264093
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264432
+Right rectangle method:	1.264432
+Trapezoid method:	1.264432
+Simpson method:		1.253034
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264582
+Right rectangle method:	1.264582
+Trapezoid method:	1.264582
+Simpson method:		1.264258
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264574
+Right rectangle method:	1.264574
+Trapezoid method:	1.264574
+Simpson method:		1.253683
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264420
+Right rectangle method:	1.264420
+Trapezoid method:	1.264420
+Simpson method:		1.264296
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264466
+Right rectangle method:	1.264466
+Trapezoid method:	1.264466
+Simpson method:		1.253937
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264561
+Right rectangle method:	1.264561
+Trapezoid method:	1.264561
+Simpson method:		1.264336
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264516
+Right rectangle method:	1.264516
+Trapezoid method:	1.264516
+Simpson method:		1.254095
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264341
+Right rectangle method:	1.264341
+Trapezoid method:	1.264341
+Simpson method:		1.263964
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264483
+Right rectangle method:	1.264483
+Trapezoid method:	1.264483
+Simpson method:		1.254317
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264533
+Right rectangle method:	1.264533
+Trapezoid method:	1.264533
+Simpson method:		1.264314
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264458
+Right rectangle method:	1.264458
+Trapezoid method:	1.264458
+Simpson method:		1.254700
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264355
+Right rectangle method:	1.264355
+Trapezoid method:	1.264355
+Simpson method:		1.264266
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264486
+Right rectangle method:	1.264486
+Trapezoid method:	1.264486
+Simpson method:		1.254939
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264499
+Right rectangle method:	1.264499
+Trapezoid method:	1.264499
+Simpson method:		1.264275
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264401
+Right rectangle method:	1.264401
+Trapezoid method:	1.264401
+Simpson method:		1.254942
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264390
+Right rectangle method:	1.264390
+Trapezoid method:	1.264390
+Simpson method:		1.264106
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264480
+Right rectangle method:	1.264480
+Trapezoid method:	1.264480
+Simpson method:		1.255306
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264462
+Right rectangle method:	1.264462
+Trapezoid method:	1.264462
+Simpson method:		1.264318
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264344
+Right rectangle method:	1.264344
+Trapezoid method:	1.264344
+Simpson method:		1.255506
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264412
+Right rectangle method:	1.264412
+Trapezoid method:	1.264412
+Simpson method:		1.264304
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264466
+Right rectangle method:	1.264466
+Trapezoid method:	1.264466
+Simpson method:		1.255732
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264423
+Right rectangle method:	1.264423
+Trapezoid method:	1.264423
+Simpson method:		1.264203
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264304
+Right rectangle method:	1.264304
+Trapezoid method:	1.264304
+Simpson method:		1.255651
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264422
+Right rectangle method:	1.264422
+Trapezoid method:	1.264422
+Simpson method:		1.264215
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264446
+Right rectangle method:	1.264446
+Trapezoid method:	1.264446
+Simpson method:		1.256089
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264383
+Right rectangle method:	1.264383
+Trapezoid method:	1.264383
+Simpson method:		1.264292
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264339
+Right rectangle method:	1.264339
+Trapezoid method:	1.264339
+Simpson method:		1.256228
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264423
+Right rectangle method:	1.264423
+Trapezoid method:	1.264423
+Simpson method:		1.264303
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264422
+Right rectangle method:	1.264422
+Trapezoid method:	1.264422
+Simpson method:		1.256375
+********************************
+REAL VALUE:		1.264241
+
+Left rectangle method:	1.264341
+Right rectangle method:	1.264341
+Trapezoid method:	1.264341
+Simpson method:		1.264127
+********************************
+REAL VALUE:		1.264241
